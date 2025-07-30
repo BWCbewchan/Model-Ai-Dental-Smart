@@ -192,7 +192,7 @@ Bạn có thể custom lại `analyze.service.ts` để xử lý annotation nế
 
 Nếu bạn cần mô hình AI mẫu, docker deploy hoặc hỗ trợ huấn luyện:
 
-* 📧 Email: [support@smile-ai.tech](mailto:support@smile-ai.tech)
+* 📧 Email: [baotran.060103@gmail.com](mailto:baotran.060103@gmail.com)
 * 📞 Hotline: 0888 888 888
 
 ---
