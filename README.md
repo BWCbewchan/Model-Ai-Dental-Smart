@@ -1,4 +1,4 @@
-Dưới đây là phiên bản **`README.md` chuyên nghiệp và chi tiết** cho dự án **AI X-ray Analysis Service**, trong đó bạn đã yêu cầu rõ:
+
 
 > ❗ **Ứng dụng phải phân tích ảnh X-ray chính xác (dùng mô hình AI thật, không giả lập)**
 
